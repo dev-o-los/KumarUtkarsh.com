@@ -21440,7 +21440,7 @@ axs(a){if(t.H3.b(a))return a
 if(t.e2.b(a))return A.cc(a.buffer,0,null)
 return new Uint8Array(A.jw(a))},
 axn(a){return a},
-te(a){var s=null,r=t.w,q=A.cO(a,s,r).w.a.a>=500&&A.cO(a,s,r).w.a.a<=1245
+te(a){var s=null,r=t.w,q=A.cO(a,s,r).w.a.a>=0&&A.cO(a,s,r).w.a.a<=1245
 return new A.y6(A.cO(a,s,r).w.a.b/100,q,A.cO(a,s,r).w.a.a/100)},
 avS(a){switch(a.a){case 0:return B.uf
 case 1:return B.ug
